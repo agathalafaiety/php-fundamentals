@@ -1,2 +1,2 @@
 # php-fundamentals
-•  Aprendendo a linguagem PHP
+•  Estudos da linguagem PHP
